@@ -1,0 +1,9 @@
+﻿  18011854_Dec.cpp
+C:\Users\JeonNeung\source\repos\imageprocessing_compressionAssignment\imageprocessing_compressionAssignment\18011854_Dec.cpp(118,130): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JeonNeung\source\repos\imageprocessing_compressionAssignment\imageprocessing_compressionAssignment\18011854_Dec.cpp(33,26): warning C4101: 'sum' :참조되지 않은 지역 변수입니다.
+C:\Users\JeonNeung\source\repos\imageprocessing_compressionAssignment\imageprocessing_compressionAssignment\18011854_Dec.cpp(33,10): warning C4101: 'Y_down' :참조되지 않은 지역 변수입니다.
+  18011854_Enc.cpp
+C:\Users\JeonNeung\source\repos\imageprocessing_compressionAssignment\imageprocessing_compressionAssignment\18011854_Enc.cpp(89,48): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JeonNeung\source\repos\imageprocessing_compressionAssignment\imageprocessing_compressionAssignment\18011854_Enc.cpp(224,130): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  imageprocessing_compressionAssignment.vcxproj -> C:\Users\JeonNeung\source\repos\imageprocessing_compressionAssignment\Debug\imageprocessing_compressionAssignment.exe
